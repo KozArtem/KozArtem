@@ -204,6 +204,7 @@ a{
 }
 .Blocks{
     display: flex;
+    justify-content: space-around;
 }
 .Block1{
     margin: 8%;
